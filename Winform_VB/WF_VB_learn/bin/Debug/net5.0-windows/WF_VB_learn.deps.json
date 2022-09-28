@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WF_VB_learn/1.0.0": {
+        "runtime": {
+          "WF_VB_learn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WF_VB_learn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
